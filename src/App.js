@@ -25,8 +25,7 @@ function App() {
             <Text noOfLines={[1, 2, 3]} color={"white"} marginTop={100} marginBottom={10}>
                 With <a className="App-link" href="https://github.com/developersunesis/contemplate"
                         target="_blank" rel="noopener noreferrer">developersunesis/contemplate</a> I can now have my
-                quick starter React project like this that comes with
-                <a className="App-link" href="https://chakra-ui.com" target="_blank"
+                quick starter React project like this that comes with <a className="App-link" href="https://chakra-ui.com" target="_blank"
                    rel="noopener noreferrer">Chakra-UI</a> dependency installed. Depending on the
                 aim of the project, the following information can change:
             </Text>
