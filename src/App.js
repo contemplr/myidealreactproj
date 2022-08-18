@@ -1,4 +1,4 @@
-import logo from './resources/logo.svg';
+import logo from './resources/contvarCompanyNamelogo.svg';
 import './styles/App.css';
 import Footer from "./components/Footer";
 import Header from "./components/Header";
