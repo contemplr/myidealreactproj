@@ -1,0 +1,16 @@
+{
+  "variables": [
+    {
+      "name": "contvarCompanyName",
+      "prompt": "Which company owns this project?"
+    },
+    {
+      "name": "contvarProjectManager",
+      "prompt": "Who is the project manager?"
+    },
+    {
+      "name": "contvarProjectStartDate",
+      "prompt": "When did the project start?"
+    }
+  ]
+}
